@@ -1,1 +1,1 @@
-# random_words_class
+Random word combination generator_2
